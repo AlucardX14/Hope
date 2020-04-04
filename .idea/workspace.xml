@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a6abe29-7d09-4cde-b0ae-496473c9c2d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a0g2MzuvEfda6HiXthOxoIJrkA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javacv-platform-1.5.1-bin/javacv-bin" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a6abe29-7d09-4cde-b0ae-496473c9c2d4" name="Default Changelist" comment="" />
+      <created>1585877717012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585877717012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="236" key="DetectedRootsChooserDialog" timestamp="1585878144936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="236" key="DetectedRootsChooserDialog/0.0.1920.1040/-1920.246.1920.1040@0.0.1920.1040" timestamp="1585878144936" />
+    <state x="666" y="262" key="FileChooserDialogImpl" timestamp="1585878134035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040/-1920.246.1920.1040@0.0.1920.1040" timestamp="1585878134035" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1585878155443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040/-1920.246.1920.1040@0.0.1920.1040" timestamp="1585878155443" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1586021583576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.246.1920.1040@0.0.1920.1040" timestamp="1586021583576" />
+    <state x="625" y="247" width="607" height="536" key="find.popup" timestamp="1586021799797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="247" width="607" height="536" key="find.popup/0.0.1920.1040/-1920.246.1920.1040@0.0.1920.1040" timestamp="1586021799797" />
+  </component>
+</project>
